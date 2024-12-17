@@ -1,7 +1,9 @@
 # 🌐 README
 
 ---
-
+Images
+![image](https://github.com/user-attachments/assets/b20eff36-1214-4086-9d1b-5cd380b3d63e)
+---
 ## 🇬🇧 **English Version**
 
 ### **1. Changing the Central Logo**
